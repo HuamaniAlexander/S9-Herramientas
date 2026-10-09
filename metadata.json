@@ -1,0 +1,6 @@
+{
+  "name": "ByteElement - Industrial Hardware Ecosystem",
+  "description": "Cross-platform industrial hardware app with high-precision peripherals, laboratory telemetry, native image gallery, dark mode, bottom navigation tabs, and tactile haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
